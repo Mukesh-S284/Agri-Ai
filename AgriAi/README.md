@@ -178,7 +178,7 @@ The exact structure may vary depending on the version of the project.
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/AgriAI.git
+git clone https://github.com/Mukesh-S284/AgriAI.git
 
 Move into the project directory:
 
@@ -399,7 +399,7 @@ Contributions, suggestions, and improvements are welcome.
 
 To contribute:
 
-git clone https://github.com/YOUR_USERNAME/AgriAI.git
+git clone https://github.com/Mukesh-S284/AgriAI.git
 
 Create a new branch:
 
